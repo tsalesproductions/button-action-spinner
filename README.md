@@ -14,6 +14,10 @@ Ao adicionar o acionador, o código identifica o seu botão e prepara ele mostra
 | data-color  | hexadecimal color |
 
 ### Como usar?
+Importe o CDN
+```HTML
+<script src="button-action.min.js"></script>
+```
 
 ##### Spinner circular
 O acionador é identificado por `data-action`.
