@@ -34,17 +34,17 @@ O acionador é identificado por `data-action`.
 <button type="submit" data-action="sm" data-color="#f00">Acessar</button>
 ```
 ----
-##### Spinner circular
+##### Spinner grow
 O acionador é identificado por `data-grow`.
 ```HTML
 <button type="submit" data-grow>Acessar</button>
 ```
-##### Spinner circular pequeno
+##### Spinner grow pequeno
 ```HTML
 <button type="submit" data-grow="sm">Acessar</button>
 ```
 
-##### Spinner circular pequeno colorido
+##### Spinner grow pequeno colorido
 O acionador responsável por adicionar cor é `data-color`, e a cor deve estar em hexadeciomal.
 ```HTML
 <button type="submit" data-grow="sm" data-color="#f00">Acessar</button>
